@@ -37,3 +37,5 @@ id <- DBI::Id(schema = "dania2",
 
 
 dbWriteTable(con, name = id, value = data, row.names = FALSE, append = TRUE)
+
+# Hej
